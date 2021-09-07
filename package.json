@@ -1,0 +1,15 @@
+{
+  "name": "pw_gitlab",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx playwright test"
+  },
+  "keywords": [],
+  "author": "Bushra Alam",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.14.1"
+  }
+}
